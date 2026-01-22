@@ -1,2 +1,2 @@
 # DSE3101-Proj
-DSE3101 Project Repository
+DSE3101 Project Repo
